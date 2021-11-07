@@ -21,7 +21,7 @@ TP ANALYSE
 * [Jupyter]
 
 ## Getting started 
-> Dans ce (session en ligne) nous allons decouvrir la programmation avec Python et Matlab/Octave on suivre les etapes suivantes 
+> Dans ce TP, nous allons decouvrir la programmation avec Python et Matlab/Octave on suivre les etapes suivantes 
 > + installation Anaconda et Octave en local
 > + l'ajouter de kernel d'octave/Matlab à jupyter notebook
 
